@@ -76,4 +76,4 @@ DerivedDataCache/*
 **/Floor_400x400.uasset
 **/Wall_400x400.uasset
 **/*.uasset
-Content
+Content/
